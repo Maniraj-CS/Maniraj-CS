@@ -237,8 +237,6 @@ while (alive) {
 }
 ```
 
----
-
 <div align="center">
 
  ### 💭 Build. Break. Learn. Automate. Repeat.
