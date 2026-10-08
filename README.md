@@ -44,11 +44,11 @@ Currently exploring how modern applications move beyond development — from sou
 
 <br>
 
-## ⚡ PulseCache — High-Performance In-Memory Store
+### 🔥 PulseCache — High-Performance In-Memory Store
 
-> A Redis-inspired in-memory data store built to understand how high-performance key-value systems work internally.
+A Redis-inspired in-memory data store built to understand the concepts behind **fast key-value systems** and how they work internally.
 
-The project focuses on learning by building the core ideas behind an in-memory storage system rather than simply using one as a dependency.
+The project is focused on learning by building the system rather than simply using an existing implementation.
 
 **Exploring:**
 
@@ -73,72 +73,103 @@ cd mini-redis-v1.0
 
 </div>
 
-> **A project built to learn systems by building them from the ground up.**
+> **A project built to understand systems by building them from the ground up.**
 
 ---
 
-# 🛠️ Skills & Technologies
-
-## ⚔️ Competitive Programming
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/maniraj12">
-<img src="https://img.shields.io/badge/C%2B%2B-Competitive%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/maniraj12">
-<img src="https://img.shields.io/badge/200%2B-Problems%20Solved-F7DF1E?style=for-the-badge&logo=codeforces&logoColor=111827"/>
-</a>
-
-</div>
-
-### 🏆 Competitive Programming
-
-**200+ problems solved** and continuously improving problem-solving skills through contests and regular practice.
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/maniraj12">
-<img src="https://img.shields.io/badge/VIEW%20CODEFORCES%20PROFILE-%E2%86%92-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
-
----
+# 🛠️ Technology Stack
 
 <div align="center">
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,githubactions,bash,python,terraform,ansible,nginx&perline=9"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,ansible,linux,bash,python,nginx&perline=9"/>
+
+<br><br>
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,nextjs,react,nodejs,express&perline=7"/>
+
+<br><br>
+
+### 🗄️ Backend & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=redis,rabbitmq,mongodb&perline=6"/>
+
+<br><br>
+
+### ⛓️ Blockchain
+
+<img src="https://skillicons.dev/icons?i=solidity&perline=1"/>
 
 </div>
 
 ---
 
-# 💻 Web Development
+# ⚔️ Competitive Programming
 
-Web development is part of my background, but **DevOps is currently the main focus**.
+Competitive Programming is where the foundation of problem-solving started.
+
+**C++** is the primary language used for competitive programming, with regular practice on **Codeforces**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,nodejs,express,html,css,tailwind,mongodb&perline=10" />
+<a href="https://codeforces.com/profile/maniraj12">
+
+<img src="https://img.shields.io/badge/Codeforces%20Profile-Visit%20%40maniraj12-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+
+</a>
 
 </div>
 
-### Familiar With
+<br>
 
-* Next.js
-* React
-* JavaScript
-* TypeScript
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Tailwind CSS
-* Git & GitHub
+The focus is on developing the ability to break complex problems into smaller, logical steps — a skill that also carries into system and software development.
+
+---
+
+# 🧩 Backend & Systems
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+backend+systems;Exploring+Redis+%26+event-driven+architecture;Learning+through+real+projects;Understanding+systems+one+project+at+a+time" alt="Backend Animation"/>
+
+</div>
+
+### 🔔 Notification System
+
+A backend project focused on building a notification workflow and understanding how different services communicate within an application.
+
+`Backend Architecture` · `APIs` · `Service Communication`
+
+<a href="https://github.com/Maniraj-CS/notification-system">
+<img src="https://img.shields.io/badge/View%20Project-Notification%20System-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🔐 Auth System — Redis Session Based
+
+An authentication system built around **Redis-backed sessions**, focused on understanding session management and backend authentication flows.
+
+`Authentication` · `Redis` · `Session Management`
+
+<a href="https://github.com/Maniraj-CS/auth-system-with-redis-session-based">
+<img src="https://img.shields.io/badge/View%20Project-Auth%20%2B%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</a>
+
+---
+
+# 🌐 Web Development
+
+Web development forms the software-development foundation, while **DevOps is the current primary direction**.
+
+Experience includes:
+
+`Next.js` · `React` · `JavaScript` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB`
+
+The focus is increasingly moving from only building applications toward understanding **how those applications are deployed, automated, scaled, and maintained**.
 
 ---
 
@@ -150,39 +181,7 @@ Web development is part of my background, but **DevOps is currently the main foc
 
 </div>
 
-Exploring **Solidity and smart-contract development**, with an interest in understanding how decentralized applications work from the contract layer upward.
-
----
-
-# 🧩 Backend & Systems
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+backend+systems;Working+with+Redis+sessions;Exploring+event-driven+architecture;Learning+through+real+projects" alt="Backend Animation"/>
-
-</div>
-
-### 🔔 Notification System
-
-A backend project focused on designing a notification workflow and understanding how services communicate with each other.
-
-**Focus:** `Backend Architecture` · `APIs` · `Service Communication`
-
-<a href="https://github.com/Maniraj-CS/notification-system">
-<img src="https://img.shields.io/badge/View%20Project-Notification%20System-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 🔐 Auth System — Redis Session Based
-
-An authentication system built around **Redis-backed sessions**, focused on understanding session management and backend authentication flow.
-
-**Focus:** `Authentication` · `Redis` · `Sessions` · `Backend Security`
-
-<a href="https://github.com/Maniraj-CS/auth-system-with-redis-session-based">
-<img src="https://img.shields.io/badge/View%20Project-Auth%20%2B%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</a>
+Exploring **Solidity and smart-contract development** with an interest in understanding how decentralized applications work at the contract level.
 
 ---
 
@@ -224,49 +223,33 @@ An authentication system built around **Redis-backed sessions**, focused on unde
 
 ---
 
-# 🧭 From Code to Systems
+# 🧭 Direction
 
-The direction is not limited to learning more technologies.
-
-It is about understanding **how the pieces connect**.
+The goal is to grow from **writing software** to understanding the complete environment in which software operates.
 
 ```text
-Write Code
-    ↓
-Build Applications
-    ↓
-Understand Systems
-    ↓
-Automate Workflows
-    ↓
-Deploy Infrastructure
-    ↓
-Make It Reliable
+Code
+ ↓
+Systems
+ ↓
+Infrastructure
+ ↓
+Automation
+ ↓
+Deployment
+ ↓
+Reliability
 ```
 
-> **The goal: become the developer who understands not only how to build software, but also how that software runs.**
+> **Not just building applications — understanding what makes them run.**
 
 ---
 
-# ⚡ A Little More About Me
-
-```cpp
-while (alive) {
-
-    solve_problems();
-    build_projects();
-    learn_devops();
-    break_things();
-    fix_them();
-    repeat();
-}
-```
-
 <div align="center">
 
-### 💭 Build. Break. Learn. Automate. Repeat.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Build+systems+with+curiosity.;Automate+with+purpose.;Keep+learning.;Keep+building." alt="Closing Animation"/>
 
-<br/>
+<br><br>
 
 <a href="https://github.com/Maniraj-CS">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
