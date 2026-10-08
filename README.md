@@ -237,9 +237,10 @@ while (alive) {
 }
 ```
 
+---
+
 <div align="center">
 
- ### 💭 Build. Break. Learn. Automate. Repeat.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Build+systems+with+curiosity.;Automate+with+purpose.;Keep+learning.;Keep+building." alt="Closing Animation"/>
 
