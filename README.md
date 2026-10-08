@@ -34,25 +34,25 @@ Currently exploring how modern applications move beyond development — from sou
 
 ---
 
-# ⚡ Current Focus
+# ⚡ Working On
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=Currently+building+%3A+Mini-Redis+v1.0;Designing+an+in-memory+key-value+system;Exploring+backend+systems+%26+infrastructure;Learning+DevOps+through+real+projects" alt="Current Project Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&color=22C55E&center=true&vCenter=true&width=750&lines=Currently+building+%3A+PulseCache;Designing+a+high-performance+in-memory+store;Exploring+how+systems+work+under+the+hood;Building+systems+to+understand+systems" alt="Working On Animation"/>
 
 </div>
 
 <br>
 
-### 🔥 Mini-Redis v1.0
+## ⚡ PulseCache — High-Performance In-Memory Store
 
-A systems-oriented project inspired by the core ideas behind **Redis**.
+> A Redis-inspired in-memory data store built to understand how high-performance key-value systems work internally.
 
-The goal is to understand what happens underneath a high-performance in-memory data store instead of simply using one as a dependency.
+The project focuses on learning by building the core ideas behind an in-memory storage system rather than simply using one as a dependency.
 
-**Current areas of work:**
+**Exploring:**
 
-`Data Storage` · `Command Processing` · `Networking` · `Concurrency` · `Persistence`
+`Key-Value Storage` · `Command Processing` · `Networking` · `Concurrency` · `Persistence`
 
 <div align="center">
 
@@ -77,137 +77,112 @@ cd mini-redis-v1.0
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Skills & Technologies
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/maniraj12">
+<img src="https://img.shields.io/badge/C%2B%2B-Competitive%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/maniraj12">
+<img src="https://img.shields.io/badge/200%2B-Problems%20Solved-F7DF1E?style=for-the-badge&logo=codeforces&logoColor=111827"/>
+</a>
+
+</div>
+
+### 🏆 Competitive Programming
+
+**200+ problems solved** and continuously improving problem-solving skills through contests and regular practice.
+
+<div align="center">
+
+<a href="https://codeforces.com/profile/maniraj12">
+<img src="https://img.shields.io/badge/VIEW%20CODEFORCES%20PROFILE-%E2%86%92-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,ansible,linux,bash,nginx&perline=8"/>
-
-<br><br>
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nextjs,react,nodejs,express&perline=8"/>
-
-<br><br>
-
-### 🗄️ Backend & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=redis,rabbitmq,mongodb&perline=6"/>
-
-<br><br>
-
-### ⛓️ Blockchain
-
-<img src="https://skillicons.dev/icons?i=solidity&perline=1"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,githubactions,bash,python,terraform,ansible,nginx&perline=9"/>
 
 </div>
 
 ---
 
-# ☁️ DevOps & Cloud
+# 💻 Web Development
 
-The current primary direction is **DevOps** — with a focus on understanding infrastructure and automation rather than simply learning individual tools.
-
-### Core Areas
-
-**Cloud**
-
-`AWS`
-
-**Containers**
-
-`Docker`
-
-**CI/CD**
-
-`GitHub Actions`
-
-**Infrastructure as Code**
-
-`Terraform`
-
-**Configuration Management**
-
-`Ansible`
-
-**Operating Systems**
-
-`Linux`
-
-**Automation**
-
-`Bash` · `Python`
-
-**Web Infrastructure**
-
-`NGINX`
-
-The goal is to become comfortable taking an application from **source code → container → infrastructure → deployment → monitoring**.
-
----
-
-# ⚔️ Competitive Programming
-
-Competitive Programming is where the foundation of problem-solving started.
-
-**C++** is the primary language used for competitive programming, with regular practice on **Codeforces**.
+Web development is part of my background, but **DevOps is currently the main focus**.
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/maniraj12">
-
-<img src="https://img.shields.io/badge/Codeforces%20Profile-Visit%20%40maniraj12-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,nodejs,express,html,css,tailwind,mongodb&perline=10" />
 
 </div>
 
-<br>
+### Familiar With
 
-The focus is on developing the ability to break complex problems into smaller, logical steps — a skill that also carries into system and software development.
-
----
-
-# 🧩 Backend & Systems
-
-Beyond application development, there is a growing interest in understanding the infrastructure behind backend systems.
-
-Currently familiar with technologies such as:
-
-`Node.js` · `Express.js` · `MongoDB` · `Redis` · `RabbitMQ`
-
-Particularly interested in:
-
-* Distributed communication
-* Message queues
-* Caching
-* APIs
-* Backend architecture
-* System-level programming
-* Performance and scalability
-
----
-
-# 🌐 Web Development
-
-Web development forms the software-development foundation, while **DevOps is the current primary direction**.
-
-Experience includes:
-
-`Next.js` · `React` · `JavaScript` · `TypeScript` · `Node.js` · `Express.js` · `MongoDB`
-
-The focus is increasingly moving from only building applications toward understanding **how those applications are deployed, automated, scaled, and maintained**.
+* Next.js
+* React
+* JavaScript
+* TypeScript
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* Tailwind CSS
+* Git & GitHub
 
 ---
 
 # ⛓️ Blockchain
 
-Exploring **Solidity and smart-contract development** as part of broader software-development interests.
+<div align="center">
 
-The current focus is on understanding how blockchain applications work at the contract and application level.
+<img src="https://skillicons.dev/icons?i=solidity&perline=1" />
+
+</div>
+
+Exploring **Solidity and smart-contract development**, with an interest in understanding how decentralized applications work from the contract layer upward.
+
+---
+
+# 🧩 Backend & Systems
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+backend+systems;Working+with+Redis+sessions;Exploring+event-driven+architecture;Learning+through+real+projects" alt="Backend Animation"/>
+
+</div>
+
+### 🔔 Notification System
+
+A backend project focused on designing a notification workflow and understanding how services communicate with each other.
+
+**Focus:** `Backend Architecture` · `APIs` · `Service Communication`
+
+<a href="https://github.com/Maniraj-CS/notification-system">
+<img src="https://img.shields.io/badge/View%20Project-Notification%20System-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🔐 Auth System — Redis Session Based
+
+An authentication system built around **Redis-backed sessions**, focused on understanding session management and backend authentication flow.
+
+**Focus:** `Authentication` · `Redis` · `Sessions` · `Backend Security`
+
+<a href="https://github.com/Maniraj-CS/auth-system-with-redis-session-based">
+<img src="https://img.shields.io/badge/View%20Project-Auth%20%2B%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</a>
 
 ---
 
@@ -238,7 +213,7 @@ The current focus is on understanding how blockchain applications work at the co
       Infrastructure • Automation • CI/CD • AWS
 
 02  →  Systems
-      Mini-Redis • Backend • Networking • Performance
+      PulseCache • Backend • Networking • Performance
 
 03  →  Problem Solving
       Competitive Programming • C++
@@ -249,33 +224,49 @@ The current focus is on understanding how blockchain applications work at the co
 
 ---
 
-# 🎯 Direction
+# 🧭 From Code to Systems
 
-The long-term goal is to become a developer who understands more than just application code — someone comfortable working across **software, infrastructure, automation, and systems**.
+The direction is not limited to learning more technologies.
 
-Currently:
+It is about understanding **how the pieces connect**.
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Understand
-  ↓
-Automate
-  ↓
-Improve
+Write Code
+    ↓
+Build Applications
+    ↓
+Understand Systems
+    ↓
+Automate Workflows
+    ↓
+Deploy Infrastructure
+    ↓
+Make It Reliable
 ```
+
+> **The goal: become the developer who understands not only how to build software, but also how that software runs.**
 
 ---
 
+# ⚡ A Little More About Me
+
+```cpp
+while (alive) {
+
+    solve_problems();
+    build_projects();
+    learn_devops();
+    break_things();
+    fix_them();
+    repeat();
+}
+```
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Build+systems+with+curiosity.;Automate+with+purpose.;Keep+learning.;Keep+building." alt="Closing Animation"/>
+### 💭 Build. Break. Learn. Automate. Repeat.
 
-<br><br>
+<br/>
 
 <a href="https://github.com/Maniraj-CS">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
