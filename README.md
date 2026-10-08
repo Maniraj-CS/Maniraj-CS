@@ -223,29 +223,25 @@ Exploring **Solidity and smart-contract development** with an interest in unders
 
 ---
 
-# 🧭 Direction
+# ⚡ A Little More About Me
 
-The goal is to grow from **writing software** to understanding the complete environment in which software operates.
+```cpp
+while (alive) {
 
-```text
-Code
- ↓
-Systems
- ↓
-Infrastructure
- ↓
-Automation
- ↓
-Deployment
- ↓
-Reliability
+    solve_problems();
+    build_projects();
+    learn_devops();
+    break_things();
+    fix_them();
+    repeat();
+}
 ```
-
-> **Not just building applications — understanding what makes them run.**
 
 ---
 
 <div align="center">
+
+ ### 💭 Build. Break. Learn. Automate. Repeat.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=700&lines=Build+systems+with+curiosity.;Automate+with+purpose.;Keep+learning.;Keep+building." alt="Closing Animation"/>
 
