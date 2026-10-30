@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Systems%2C+Not+Just+Applications;Currently+Exploring+DevOps+%26+Cloud;Competitive+Programming+%7C+C%2B%2B;Learning+How+Software+Moves+from+Code+to+Production;Build+%E2%86%92+Automate+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Build+Systems%2C+Not+Just+Applications;Currently+Exploring+DevOps+%26+Cloud;Competitive+Programming+%7C+C%2B%2B;Learning+How+Software+Moves+from+Code+to+Production;Build+%E2%86%92+Automate+%E2%86%92+Deploy+%E2%86%92+Improve" alt="Typing Animation"/>
 
 <br><br>
 
